@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CoffeeCamp</string>
+
+    <!--  Categories  -->
+    <string name="category_with_coffee">Bebidas con café</string>
+    <string name="category_without_coffee">Bebidas sin café</string>
+    <string name="category_desserts">Repostería</string>
+    <string name="category_juice">Jugos</string>
+
+    <string name="title_top_bar">TENEMOS LO MEJOR PARA TI</string>
+
+    <!--  content description  -->
+    <string name="content_description_grid">Grilla, %s</string>
+    <string name="content_description_list">Lista, %s</string>
+    <string name="option_selected">seleccionado</string>
+    <string name="option_unselected">No seleccionado</string>
+    <string name="content_description_add_coffee">Agregar café</string>
+
+</resources>
